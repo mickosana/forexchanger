@@ -1,0 +1,9 @@
+#########The project uses cakephp3######
+========
+step1  :import the forechanger.sql file into mysql database
+=======
+step 2: unzip into your localhost webroot
+=======
+step 3: go into php.ini and uncomment the line extension=php_intl.dll in order for the composer plugins to work
+======
+:) ready go to the root localhost://forexchanger/ add yourself as a user and start buying foreign currency
